@@ -1,0 +1,3 @@
+[submodule "themes/hugo-github-theme"]
+	path = themes/hugo-github-theme
+	url = git@github.com:chika-chang/hugo-github-theme.git

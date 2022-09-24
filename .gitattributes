@@ -1,0 +1,16 @@
+# Treat everything not text if not specified
+* -text
+
+*.json text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+
+# LFS
+*.bmp filter=lfs diff=lfs merge=lfs
+*.gif filter=lfs diff=lfs merge=lfs
+*.png filter=lfs diff=lfs merge=lfs
+*.jpg filter=lfs diff=lfs merge=lfs
+*.svg filter=lfs diff=lfs merge=lfs

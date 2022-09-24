@@ -1,0 +1,9 @@
+baseUrl = 'https://blog.chikastories.com'
+enableEmoji = true
+enableGitInfo = true
+enableInlineShortcodes = true
+languageCode = 'zh-Hant'
+theme = 'hugo-github-theme'
+title = 'Chika stories'
+hasCJKLanguage = true
+timeZone = 'Asia/Taipei'

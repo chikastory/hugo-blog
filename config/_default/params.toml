@@ -1,15 +1,15 @@
 [profile]
 author = 'Chika Chang'
-githubUsername = 'chika-chang'
+githubUsername = 'chikastory'
 status = ':anchor:'
 statusMessage = 'hello, world'
 description = 'Unity game developer of WooLFIDEA'
 displayFollowers = true
 organization = 'WooLFIDEA'
 location = 'Taipei, Taiwan'
-email = '13810485+chika-chang@users.noreply.github.com'
+email = '13810485+chikastory@users.noreply.github.com'
 displayEmail = false
-url = 'blog.chikastories.com'
+url = 'blog.chikastory.com'
 displayProBadge = true
 createdDate = 2022-09-24T12:19:08Z
 

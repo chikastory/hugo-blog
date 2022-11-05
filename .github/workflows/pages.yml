@@ -28,7 +28,7 @@ jobs:
             - name: Download public
               uses: actions/checkout@v3
               with:
-                  repository: chika-chang/chika-chang.github.io
+                  repository: chikastory/chikastory.github.io
                   path: public
             - name: Build site
               run: hugo --minify --environment production
@@ -50,7 +50,7 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                   deploy_key: ${{ secrets.PAGES_DEPLOY_KEY }}
-                  external_repository: chika-chang/chika-chang.github.io
+                  external_repository: chikastory/chikastory.github.io
                   publish_branch: main
                   publish_dir: .
                   force_orphan: true

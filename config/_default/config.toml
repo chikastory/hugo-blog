@@ -4,6 +4,6 @@ enableGitInfo = true
 enableInlineShortcodes = true
 languageCode = 'zh-Hant'
 theme = 'hugo-github-theme'
-title = 'Chika stories'
+title = 'Chika story'
 hasCJKLanguage = true
 timeZone = 'Asia/Taipei'
